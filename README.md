@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Franciz-01tobias
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css,js and php
+- 🌱 I have some skill frontend and backend web development
+- 🌱  I'm currently learning python as programmer
 - 📫 Tanzania  
   Watsap no +255 744 288 471
 
