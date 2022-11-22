@@ -3,7 +3,7 @@
 - 🌱 I have some skill frontend and backend web development
 - 🌱  I'm currently learning python as a programmer
 - 📫 Tanzania  
-  Watsap no +255 744 288 471
+ 
 
 <!---
 Franciz-01tobias/Franciz-01tobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
