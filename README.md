@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francis Thobias
 - 👀 I’m interested in web development
 - 🌱 I have some skill frontend and backend web development
-- 🌱  I'm currently learning python as programmer
+- 🌱  I'm currently learning python as a programmer
 - 📫 Tanzania  
   Watsap no +255 744 288 471
 
