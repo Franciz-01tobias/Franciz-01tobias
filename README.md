@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franciz-01tobias
+- 👋 Hi, I’m @Francis Thobias
 - 👀 I’m interested in web development
 - 🌱 I have some skill frontend and backend web development
 - 🌱  I'm currently learning python as programmer
